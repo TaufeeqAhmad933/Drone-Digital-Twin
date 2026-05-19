@@ -1,6 +1,3 @@
-Here is a complete, professional, and highly polished `README.md` file for your GitHub repository. It includes the system architecture, features, and step-by-step instructions on how to run the project. 
-
-Just copy and paste this directly into a file named `README.md` in your `drone_twin_project` folder!
 
 ***
 
